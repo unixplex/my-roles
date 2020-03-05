@@ -1,0 +1,6 @@
+---
+# tasks file for roleB
+- name: RoleB
+  debug:
+    msg: "This is Role B"
+

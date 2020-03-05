@@ -1,0 +1,6 @@
+---
+# tasks file for roleC
+- name: RoleC
+  debug:
+    msg: "This is Role C"
+

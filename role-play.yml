@@ -1,0 +1,6 @@
+---
+ - hosts: centos7host2
+   roles: 
+     - roleA
+     - roleB
+     - roleC
